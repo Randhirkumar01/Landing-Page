@@ -202,7 +202,7 @@ footer {
     position: relative;
     filter: brightness(.9) contrast(1.1) blur(.1em);
     border-radius: 1em;
-    left: -2em;
+    left: -1;
   }
 }
 @media (max-width: 991px){
@@ -289,15 +289,4 @@ footer {
 .card{
   margin: .5em 0;
 }
-}
-
-@media (max-height: 1475) {
-  
-  .card{
-    height:auto;
-  }
-  .card img{
-    height: 15em;
-    width: 10em;    
-  }
 }
