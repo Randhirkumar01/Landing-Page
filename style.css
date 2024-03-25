@@ -100,7 +100,14 @@ section-1 {
 
 
 /* Section - 2 */
-
+.about{
+  font-size: 1.8em;
+  font-weight: bold;
+}
+.about-content{
+  font-family:'Alegreya Sans', sans-serif;
+  font-size: 1.2em;
+}
 
 /* Section - 3 */
 .section-3 {
@@ -220,7 +227,7 @@ footer {
   }
 .pic{
   width: 100%;
-  margin:2em;
+  margin-top:1em;
 }
   .pic img{
     max-width: 900px;
@@ -276,7 +283,6 @@ footer {
     max-width: 250px;
     max-height: 350px;
     margin: auto;
-    left: 0;
   }
   .title{
     width: 60%;
